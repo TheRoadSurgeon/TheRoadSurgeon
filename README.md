@@ -8,3 +8,5 @@ When I'm not coding, I enjoy spending time with friends, gaming, and unwinding f
 Connect with me here on GitHub to see what I'm working on or to start a collaboration on future projects!
 
 You can contact me at: htountchev@gmail.com
+
+Skills: C++, Python, Java, C, HTML, CSS
